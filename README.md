@@ -1,0 +1,1 @@
+I've developed a chrome extension Leads Tracker which records your saved tabs' URL and also the URL you choose to enter. Every time you open the extension ,you see your saved tabs . You can also delete them when you need.
